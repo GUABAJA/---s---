@@ -35,9 +35,9 @@
 
 ### 💜 Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Sadew451/NatsukiMusic)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/GUABAJA/---s---.git)
 
-[![Deploy+on+Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/Sadew451/NatsukiMusic)
+[![Deploy+on+Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/GUABAJA/---s---.git)
 
 Get pyrogram (p)  `SESSION` from here:
 
@@ -122,13 +122,12 @@ If you donlt like to play in linked channel:
 Don't edit this part
 
 #### Special Credits
-- [Rojserbest](http://github.com/rojserbes): Callsmusic Developer
-- [Sadew](https://github.com/Sadew451): Dev
+-  @teri_behn_ka_bf 
+-
 
-This bot is based on the original work done by [Rojserbest](http://github.com/rojserbest). Without his hardwork NatsukiMusic won't exist. 
-EzilaXmusic is a modified version of [Callsmusic](https://github.com/callsmusic/callsmusic) for fit the needs of [Natsuki](https://t.me/TheNatsukiBot) users
 
-#### Contribtors
-- [InukaASiTH](https://github.com/InukaAsith):
-- [Rojserbest](http://github.com/rojserbes): 
-- [Original Repo owners](https://github.com/CallsMusic/CallsMusic)
+
+
+
+
+
